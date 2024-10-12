@@ -1,0 +1,25 @@
+{
+  "name": "recetas-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manuel Urra",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "koa": "^2.15.3",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^13.0.1",
+    "mongoose": "^8.7.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.15.0",
+    "@types/koa-bodyparser": "^4.3.12",
+    "@types/koa-router": "^7.4.8",
+    "@types/koa__cors": "^5.0.0",
+    "@types/node": "^22.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
